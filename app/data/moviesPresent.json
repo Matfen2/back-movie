@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Robot Sauvage",
+    "logo": "/picts/movies/robotSauvageLogo.png",
+    "wallpaper": "/picts/movies/robotSauvage.png",
+    "pitch": "Le Robot Sauvage suit l’incroyable épopée d'un robot – l'unité ROZZUM 7134 alias “Roz” – qui après avoir fait naufrage sur une île déserte doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île. Elle finit par adopter le petit d’une oie, un oison, qui se retrouve orphelin."
+  },
+  {
+    "id": 2,
+    "title": "The Garden Of The Words",
+    "logo": "/picts/movies/theGardenOfWordsLogo.png",
+    "wallpaper": "/picts/movies/theGardenOfWords.png",
+    "pitch": "Takao est un jeune lycéen qui rêve de devenir cordonnier. D'un naturel mélancolique, il va souvent chercher l'inspiration dans un jardin japonais. Il y fait la rencontre d'une mystérieuse femme Yukino. Bien que plus âgée que lui, Yukino apprécie la compagnie de Takao. Ils se retrouvent plusieurs fois dans le même jardin et finissent par faire connaissance..."
+  },
+  {
+    "id": 3,
+    "title": "Les Mitchell contre les machines",
+    "logo": "/picts/movies/mitchellVSRobotLogo.png",
+    "wallpaper": "/picts/movies/mitchellVSRobot.png",
+    "pitch": "Katie Mitchell et sa famille, accompagnés de leur chien adoré, partent en road-trip dans la nature avant que la jeune fille ne commence son année scolaire dans l'école de ses rêves. Le projet prend rapidement une autre tournure lorsque tous les appareils électroniques du monde entier se rebellent et décident de prendre le contrôle."
+  },
+  {
+    "id": 4,
+    "title": "Spider-Man Across The Spider Verse",
+    "logo": "/picts/movies/spiderManAcrossTheSpiderVerseLogo.png",
+    "wallpaper": "/picts/movies/spiderManAcrossTheSpiderVerse.png",
+    "pitch": "Après avoir retrouvé Gwen Stacy, Spider-Man, le sympathique quartier à temps plein de Brooklyn, est catapulté à travers le multivers, où il rencontre une équipe de Spider-People chargée de protéger son existence même."
+  },
+  {
+    "id": 5,
+    "title": "Toy Story 3",
+    "logo": "/picts/movies/toyStory3Logo.png",
+    "wallpaper": "/picts/movies/toyStory3.png",
+    "pitch": "Alors qu'Andy part pour l’université, Woody, Buzz et les autres jouets se demandent ce qu’ils vont devenir. Quand ils arrivent à Sunnyside, ils découvrent qu’une nouvelle aventure va commencer."
+  }
+]
